@@ -15,5 +15,12 @@
 /log/*.log
 /tmp
 
+database.yml
+doc/
+*.swp
+*~
+.project
+.DS_STore
 .idea
 .rvmrc
+.secret
